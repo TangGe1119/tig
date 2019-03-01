@@ -1,0 +1,32 @@
+{
+  "name": "tig",
+  "version": "0.0.1",
+  "description": "a git tool",
+  "main": "index.js",
+  "bin": {
+    "tig": "lib/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TangGe1119/tig.git"
+  },
+  "keywords": [
+    "git",
+    "tool"
+  ],
+  "author": "tangge1119",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TangGe1119/tig/issues"
+  },
+  "homepage": "https://github.com/TangGe1119/tig#readme",
+  "dependencies": {
+    "caporal": "^1.1.0",
+    "chalk": "^2.4.2",
+    "dayjs": "^1.8.8",
+    "inquirer": "^6.2.2"
+  }
+}
