@@ -1,6 +1,6 @@
 {
-  "name": "tig",
-  "version": "0.0.1",
+  "name": "@tyuan/tig",
+  "version": "0.1.0",
   "description": "a git tool",
   "main": "index.js",
   "bin": {
